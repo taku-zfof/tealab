@@ -7,3 +7,5 @@ syahen = y
 henBB = syahen**2 - henA**2
 henB = Math.sqrt(henBB)
 p henB 
+
+#辺Bを求める
